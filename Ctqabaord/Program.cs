@@ -1,7 +1,7 @@
-﻿namespace Ctqabaord {
-    internal class Program {
-        static void Main(string[] args) {
-            Console.WriteLine("Hello, World!");
-        }
+﻿namespace Ctqabaord;
+
+internal class Program {
+    static void Main() {
+        Console.WriteLine("Hello, World!");
     }
 }
